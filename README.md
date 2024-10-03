@@ -1,4 +1,3 @@
-![Screenshot 2024-10-03 153247](https://github.com/user-attachments/assets/50f17c3f-261f-44ca-9178-ba9363214d3b)# Edge-Linking-using-Hough-Transformm
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
